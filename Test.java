@@ -1,6 +1,6 @@
 public class Test{
 	public static void main(String[] args){
 
-	System.out.println("changed in local to create conflit");
+	System.out.println("pushing to feature branch");
 }
 }
