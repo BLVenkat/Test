@@ -1,6 +1,6 @@
-public class Test{
+class TestDemo{
 	public static void main(String[] args){
 
-	System.out.println("pushing to feature branch");
+	System.out.println("Hello All");
 }
 }
